@@ -24,3 +24,11 @@ _I work a job, play sports and love techno music. My goal is my education and gr
 **Belhard (2015-2016)**
 
 - _JavaScript programming._
+
+## Skills
+
+- _HTML & CSS_
+- _JavaScript_
+- _Git_
+- _SQL_
+- _Figma_
