@@ -7,3 +7,14 @@ _I work a job, play sports and love techno music. My goal is my education and gr
 - Email: art.ngki@gmail.com
 - Mobile: +375 (29) 103-86-86
 - Github: @1ngki
+
+## Education
+
+**Zhodino State Polytechnic College (2007-2009)**
+
+- _Economics and production management in the field of mechanical engineering._
+- _Coursework in economics and organization manufacture._
+
+**Belarusian institute of law (2009-2014)**
+
+- _Economics and enterprise management._
