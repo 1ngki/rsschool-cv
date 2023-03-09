@@ -18,3 +18,9 @@ _I work a job, play sports and love techno music. My goal is my education and gr
 **Belarusian institute of law (2009-2014)**
 
 - _Economics and enterprise management._
+
+## Courses
+
+**Belhard (2015-2016)**
+
+- _JavaScript programming._
