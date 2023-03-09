@@ -43,3 +43,7 @@ let isAnagram = function(test, original) {
   return findAnagram(test) === findAnagram(original);
 };
 ```
+
+## English
+
+**B1 (Intermediate)**
